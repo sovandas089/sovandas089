@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sovan_das](https://linktr.ee/sovan_das)
 
-- 💬 Ask me about **Java, Cyber Sec**
+- 💬 Ask me about **Java, Flutter, Cyber Sec**
 
 - 📫 How to reach me **sovandas089@gmail.com**
 
