@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sovandas.io)
 <h1 align="center">Hi 👋, I'm Sovan Das</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Security Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **OSCP [Offessive Security Certified Professional]**
+- 🔭 I’m currently preperation for **OSCP [Offessive Security Certified Professional]**
 
 - 🌱 I’m currently learning **Network Security**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sovan_das](https://linktr.ee/sovan_das)
+- 👨‍💻 All of my projects are available at [Sovan](https://sovandas089.github.io/)
 
 - 💬 Ask me about **Java, Flutter, Cyber Sec**
 
