@@ -12,8 +12,7 @@
     <img height="180em" src="https://streak-stats.demolab.com/?user=sovandas089&count_private=false&theme=react"/>
   </div>
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=766888" style='border:none;'></iframe>
-
+   <img src="https://tryhackme-badges.s3.amazonaws.com/sovandas089.png" alt="Your Image Badge" />
   </div>
 </div>
 
