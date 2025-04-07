@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+MY+NAME+is+Sovan+Das;I'm+a+Cyber+Security+Enginer;I'm+Persuing+B.Tech+from+O+P+Jindal+University;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+    <div style="flex: 1; flex-direction: row; width: 100%">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/sovandas089.png" alt="Your Image Badge" />
+  </div>
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sovandas089&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovandas089&layout=compact&langs_count=7&theme=react"/>
@@ -11,9 +14,7 @@
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://streak-stats.demolab.com/?user=sovandas089&count_private=false&theme=react"/>
   </div>
-  <div style="flex: 1; flex-direction: row; width: 100%">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/sovandas089.png" alt="Your Image Badge" />
-  </div>
+
 </div>
 
 ## <picture><img src = "https://github.com/user-attachments/assets/e8f33d0f-2c38-4279-9572-f00c2b71bb6f" width = 50px></picture> **About me**
