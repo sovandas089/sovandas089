@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=1b03aff2pwjhl8ieejcmqaxxcm4hconc53lp7glbag76jr77&rid=giphy.gif&ct=g)](https://sovandas.io)
+[![MasterHead](https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif)](https://sovandas.io)
 <h1 align="center">Hi 👋, I'm Sovan Das</h1>
 <h3 align="center">A passionate Security Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
