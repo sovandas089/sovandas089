@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=2400&height=767&name=Cybersecurity%20Graphic.gif)](https://sovandas.io)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/51fb0e6ee4b0dfbd7918866c/1443748012334-9XOFTX5DC3U38LZ7QB2S/image-asset.gif?format=2500w)](https://sovandas.io)
 <h1 align="center">Hi 👋, I'm Sovan Das</h1>
 <h3 align="center">A passionate Security Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
