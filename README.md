@@ -1,4 +1,4 @@
-[![MasterHead](https://www.themeetingmagazines.com/wp-content/uploads/2018/03/ACF-2018-03Mar-Cyber_Safety__Security-860x418.gif)](https://sovandas.io)
+[![MasterHead](https://i.pinimg.com/originals/c1/b8/e1/c1b8e17e184e23f17a73da983a50f723.gif)](https://sovandas.io)
 <h1 align="center">Hi 👋, I'm Sovan Das</h1>
 <h3 align="center">A passionate Security Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
