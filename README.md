@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBjam84bm5qa3EzdmlwYXF0YTJ4bTA1OGpraHBvempkNGJ2bDh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif)](https://sovandas.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQEIuYngbejNFA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1719327044373?e=1749686400&v=beta&t=o547iFQJPbt7zqTmqGsuCIFC8zQ06eXBrlra-Gd1BjE)](https://sovandas.io)
 <h1 align="center">Hi 👋, I'm Sovan Das</h1>
 <h3 align="center">A passionate Security Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
