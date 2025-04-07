@@ -4,7 +4,8 @@
 
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
     <div style="flex: 1; flex-direction: row; width: 100%">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/sovandas089.png" alt="Your Image Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=766888" style='border:none;'></iframe>
+
   </div>
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sovandas089&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
