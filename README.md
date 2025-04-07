@@ -9,7 +9,6 @@
   </div>
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://streak-stats.demolab.com/?user=sovandas089&count_private=false&theme=react"/>
-    <a href="https://github.com/piedro404/bee-stats"><img height="180em" src="https://bee-stats.vercel.app/stats/385161"/></a>
   </div>
 </div>
 
@@ -25,7 +24,7 @@
       <li><strong>Cyber Security Engineer</strong></li>
       <li>Student at O.P. Jindal University</li>
       <li>Setting up practical projects with friends</li>
-      <li>Currently learning Top !0 OWASP Vulnerability</li>
+      <li>Currently learning Top 10 OWASP Vulnerability</li>
       <li>Passionate about technology and new contacts</li>
     </ul>
   </div>
@@ -34,7 +33,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,flutter,nodejs,git,github,vscode,postman,mysql,firebase,docker,linux&perline=13">
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=linux,python,bash,java,js,flutter,php,react,nodejs,git,github,vscode,postman,mysql,firebase,docker&perline=13">
   <img align="right" alt="pic" height="150" style="border-radius:50px;"  src="https://i.ibb.co/g71crS1/niko-oneshot.gif">
 </div>
 
