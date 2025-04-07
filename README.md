@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/7v54.gif)](https://sovandas.io)
+[![MasterHead](https://raw.githubusercontent.com/kibexd/Gifs-and-Images-/refs/heads/main/cybersecurity.gif)](https://sovandas.io)
 <h1 align="center">Hi 👋, I'm Sovan Das</h1>
 <h3 align="center">A passionate Security Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
