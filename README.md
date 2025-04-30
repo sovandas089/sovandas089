@@ -7,10 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sovandas089&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovandas089&layout=compact&langs_count=7&theme=react"/>
     
-  </div>
-  <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=sovandas089&count_private=false&theme=react"/>
-  </div>
+
 
 </div>
 
