@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Sovan%20Das&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+MY+NAME+is+Sovan+Das;I'm+a+Cyber+Security+Enginer;I'm+Persuing+B.Tech+from+O+P+Jindal+University;Be+Welcome!+:%29)](https://git.io/typing-svg)
-      [![Live Chart](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=766888)](https://tryhackme.com/p/sovandas089)
+      
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sovandas089&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
