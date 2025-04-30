@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Sovan%20Das&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+MY+NAME+is+Sovan+Das;I'm+a+Cyber+Security+Enginer;I'm+Persuing+B.Tech+from+O+P+Jindal+University;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+MY+NAME+is+Sovan+Das;I'm+a+Cyber+Security+Enginer;I'm+Persuing+B.Tech+from+O+P+Jindal+University;I'm+The+Outsider;Be+Welcome!+:%29)](https://git.io/typing-svg)
       
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
