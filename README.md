@@ -23,12 +23,9 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 | Active Directory Project with Splunk          | <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>|
 | AD DS User and Organizational unit management | <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -51,7 +48,7 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -61,7 +58,6 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer"/>
