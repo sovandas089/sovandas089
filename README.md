@@ -48,14 +48,10 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 </div>
 
 ## Certifications
+- Database Essentials and Vulnerabilities - IBM
+- Operating Systems: Overview, Administration, and Security - IBM
+- Introduction to Cybersecurity Tools & Cyberattacks - IBM
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>
