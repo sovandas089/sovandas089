@@ -48,9 +48,9 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 </div>
 
 ## Certifications
-- Database Essentials and Vulnerabilities - IBM
-- Operating Systems: Overview, Administration, and Security - IBM
-- Introduction to Cybersecurity Tools & Cyberattacks - IBM
+- <a href="https://drive.google.com/file/d/1zNG0I3SrPXyOEFva-Wm3yCJACD-k1GsR/view?usp=sharing"> Database Essentials and Vulnerabilities - IBM</a>
+- <a href="https://drive.google.com/file/d/1A3QOdD3ZxezPys6SvnJWwpJavnGGlJ7T/view?usp=sharing"> Operating Systems: Overview, Administration, and Security - IBM</a>
+- <a href = "https://drive.google.com/file/d/1vOdHkJe9XH37HV6Esj70XEofeSWlxlzd/view?usp=sharing">Introduction to Cybersecurity Tools & Cyberattacks - IBM</a>
 
 
 ## Projects
