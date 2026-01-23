@@ -55,6 +55,6 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 
 ## Projects
 - <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>
-<a href="https://github.com/sovandas089/Log-Analyzer">Log Analyzer</a>
+- <a href="https://github.com/sovandas089/Log-Analyzer">Log Analyzer</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer"/>
