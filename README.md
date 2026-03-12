@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+My+name+is+Sovan+Das;I'm+a+Cyber+Security+Enginer;I'm+Persuing+B.Tech+from+O+P+Jindal+University;I'm+the+Outsider;Be+Welcome!+:%29)](https://git.io/typing-svg)
       
-<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+<!--<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sovandas089&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovandas089&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovandas089&layout=compact&langs_count=7&theme=react"/> -->
     
 
 
