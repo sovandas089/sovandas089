@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Sovan%20Das&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 <div align="center">
 
 # 👾 Sovan Das
@@ -182,3 +183,4 @@ me = SOCAnalyst()
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=for-the-badge)
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer"/>
