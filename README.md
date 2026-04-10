@@ -9,10 +9,10 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sovandas089)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sovandas089@gmail.com)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-%23111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-%23111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/public/users/878488)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sovandas089)
 
 </div>
 
@@ -147,10 +147,10 @@ me = SOCAnalyst()
 
 <div align="center">
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-Global%20Rank%20%23979-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![Blue Team Labs](https://img.shields.io/badge/Blue%20Team%20Labs-Active-0052CC?style=for-the-badge)](https://blueteamlabs.online/)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-Active-1A73E8?style=for-the-badge)](https://letsdefend.io/)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Global%20Rank%20%23979-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/](https://app.hackthebox.com/public/users/878488))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sovandas089)
+[![Blue Team Labs](https://img.shields.io/badge/Blue%20Team%20Labs-Active-0052CC?style=for-the-badge)](https://blueteamlabs.online/public/user/fe2975c70e82864d4b1b57)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-Active-1A73E8?style=for-the-badge)](https://app.letsdefend.io/user/Onyxstar01)
 
 </div>
 
