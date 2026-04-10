@@ -136,11 +136,11 @@ me = SOCAnalyst()
 
 <div align="center">
 
-![Sovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![Sovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sovandas089&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sovandas089&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sovandas089&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
