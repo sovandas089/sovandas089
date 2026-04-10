@@ -170,7 +170,7 @@ me = SOCAnalyst()
 
 ## 💬 SOC Analyst Mindset
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00F72B&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%9B%A1%EF%B8%8F+The+best+defense+is+a+well-monitored+offense.;%F0%9F%94%8D+Behind+every+alert+lies+a+story%E2%80%94SOC+Analysts+decode+the+truth.;%F0%9F%93%9C+Logs+don%27t+lie%2C+but+they+whisper%E2%80%94analysts+listen+closely.;%F0%9F%91%81%EF%B8%8F+In+a+world+of+threats%2C+SOC+Analysts+are+the+eyes+that+never+blink.;%F0%9F%94%8E+Every+anomaly+is+a+clue%3B+Every+clue+leads+to+the+truth.;%F0%9F%94%90+Guarding+the+unseen%2C+defending+the+unknown%E2%80%94that%27s+the+SOC+way." alt="SOC Analyst Quotes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00F72B&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%9B%A1%EF%B8%8F+The+best+defense+is+a+well-monitored+offense.;%F0%9F%94%8D+Behind+every+alert+lies+a+story%E2%80%94SOC+Analysts+decode+the+truth.;%F0%9F%93%9C+Logs+don%27t+lie%2C+but+they+whisper%E2%80%94analysts+listen+closely.;%F0%9F%91%81%EF%B8%8F+In+a+world+of+threats%2C+SOC+Analysts+are+the+eyes+that+never+blink.;%F0%9F%94%8E+Every+anomaly+is+a+clue,+Every+clue+leads+to+the+truth.;%F0%9F%94%90+Guarding+the+unseen%2C+defending+the+unknown%E2%80%94that%27s+the+SOC+way." alt="SOC Analyst Quotes" />
 
 ---
 
