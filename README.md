@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Sovan%20Das&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+My+name+is+Sovan+Das;I'm+a+Cyber+Security+Enginer;I'm+Persuing+B.Tech+from+O+P+Jindal+University;I'm+the+Outsider;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+My+name+is+Sovan+Das;I'm+a+Gold+Medalist+in+Cyber+Security+in+WorldSkills+India+State+Level;I'm+a+Cyber+Security+Analyst;I'm+Persuing+B.Tech+from+O+P+Jindal+University;I'm+the+Outsider;Be+Welcome!+:%29)](https://git.io/typing-svg)
       
 <!--<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
@@ -23,6 +23,8 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 | Active Directory Project with Splunk          | <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>|
 | AD DS User and Organizational unit management | <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>|
+| Web Application Firewall Deployment and Tuning | <a href="https://github.com/sovandas089/WAF-IDS/blob/main/README.md">WAF Guardian</a>|
+| OWASP Attack Prevention and Log-based Alerting | <a href="https://github.com/sovandas089/WAF-IDS/blob/main/README.md">WAF Guardian</a>|
 
 
 ## Tools
@@ -48,13 +50,15 @@ Aspiring SOC Analyst seeking an internship to apply knowledge in threat detectio
 </div>
 
 ## Certifications
-- <a href="https://drive.google.com/file/d/1zNG0I3SrPXyOEFva-Wm3yCJACD-k1GsR/view?usp=sharing"> Database Essentials and Vulnerabilities - IBM</a>
-- <a href="https://drive.google.com/file/d/1A3QOdD3ZxezPys6SvnJWwpJavnGGlJ7T/view?usp=sharing"> Operating Systems: Overview, Administration, and Security - IBM</a>
-- <a href = "https://drive.google.com/file/d/1vOdHkJe9XH37HV6Esj70XEofeSWlxlzd/view?usp=sharing">Introduction to Cybersecurity Tools & Cyberattacks - IBM</a>
+- <a href="https://drive.google.com/file/d/1-haQCPZkzIqdCdT6hNBawLLrgEhsSdSs/view?usp=drive_link">  CompTIA Network+ (N10 - 008) | Packt</a>
+- <a href="https://drive.google.com/file/d/1zNG0I3SrPXyOEFva-Wm3yCJACD-k1GsR/view?usp=sharing"> Database Essentials and Vulnerabilities | IBM</a>
+- <a href="https://drive.google.com/file/d/1A3QOdD3ZxezPys6SvnJWwpJavnGGlJ7T/view?usp=sharing"> Operating Systems: Overview, Administration, and Security | IBM</a>
+- <a href = "https://drive.google.com/file/d/1vOdHkJe9XH37HV6Esj70XEofeSWlxlzd/view?usp=sharing">Introduction to Cybersecurity Tools & Cyberattacks | IBM</a>
 
 
 ## Projects
 - <a href="https://github.com/sovandas089/Active-Directory-Home-Lab-with-Splunk.git">Active Directory Lab</a>
 - <a href="https://github.com/sovandas089/Log-Analyzer">Log Analyzer</a>
+- <a href="https://github.com/sovandas089/WAF-IDS/blob/main/README.md">WAF Guardian</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=120&section=footer"/>
